@@ -1,0 +1,20 @@
+{
+  "name": "nutrition-label",
+  "version": "1.0.0",
+  "description": "Nutrition Label jQuery Plugin by Nutritionix ============================================",
+  "main": "nutritionLabel-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProduceBrands/nutrition-label.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProduceBrands/nutrition-label/issues"
+  },
+  "homepage": "https://github.com/ProduceBrands/nutrition-label#readme"
+}
